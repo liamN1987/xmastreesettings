@@ -1,0 +1,6 @@
+{
+"trees":["web1", "web2"],
+"accessories":["webacc1","webacc2"],
+"slots":["Xmas day", "Boxing day"]
+"confirm":true
+}
